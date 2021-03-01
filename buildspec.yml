@@ -17,6 +17,7 @@ phases:
 artifacts:
   files:
     - target/java-demo-0.1.0.jar
+    - appspec.yml
     - README.md
 cache:
   paths:
